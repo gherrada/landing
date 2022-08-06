@@ -36,6 +36,15 @@
     color: aliceblue;
 }
 
+ul{
+    list-style-type: none;
+}
+
+ul li{
+    float: left;
+    justify-content:space-around;
+}
+
 a {
     color:inherit;
   }
