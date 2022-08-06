@@ -8,24 +8,31 @@
   color: aliceblue;
 }
 
+
 #portafolio {
     padding-top: 50px;
     padding-bottom: 200px;
+    background-color: #b1d4e0;
+    
 }
 
 #aptitudes {
     padding-top: 50px;
     padding-bottom: 200px;
+    background-color: #2e8bc0;
 }
 
 #perfil {
     padding-top: 50px;
     padding-bottom: 200px;
+    background-color: #145da0;
 }
 
 #contacto {
     padding-top: 50px;
     padding-bottom: 200px;
+    background-color:#0c2d48;
+    color: aliceblue;
 }
 
 a {
