@@ -1,11 +1,11 @@
-# Origami
+# Landing Page
 
 Esta es una pagina web estática, en base a html, javascript, Bootstrap y css.
-
+En esta página se incluye información del autor, links a algunos repositorios, e informacion de contacto.
 
 ## Despliegue 📦
 
-Basta usar un navegador web, por ejemplo Firefox.
+Basta usar un navegador web, por ejemplo Firefox o Chrome.
 
 ## Construido con 🛠️
 
